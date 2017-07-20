@@ -1,0 +1,60 @@
+Programming the low-power code to the Arduino pro mini 
+
+Hardware requirement
+--------------------
+
+1. AVRISP mkII programmer
+2. Atmel studio
+
+
+Wiring diagram
+--------------
+
+Arduino Pro mini   <---> ISP connector
+
+11 (MOSI)                4 (MOSI)
+12 (MISO)                1 (MISO)
+13 (SCLK)                3 (SCK)
+RST                      5 (RESET)
+GND                      6 (GND)
+VCC                      2 (VCC)
+
+Pro mini   <---> DC PSU
+
+VCC              3V3
+GND              GND
+
+
+ISP connector
+-------------
+
+Looking into the socket (cable on the left, notch on the right)
+
+VCC   MISO (1)
+MOSI  SCK  (notch)
+GND   RESET 
+
+Programming
+-----------
+
+* Launch Atmel studio
+* Open project: wltrigger_rx.atsln
+* Plug the AVR-mkII programmer to the computer
+* Tool > Device Programming
+  * Tool = AVRISP mkII
+  * Device = ATmega328P
+  * Interface = ISP
+  * Click Apply
+  * Turn on the Arduino
+  * Click Device signature - Read
+  * It should return 0x1E950F
+  * Target voltage should output 3.3 V
+  
+* Go to Memories
+  * Check the flash file is  wltrigger_rx\wltrigger_rx\Debug\wltrigger_rx.elf
+  * Click Program
+  * It should display
+    * Erasing device OK
+	* Programming Flash OK
+	* Verifying Flash OK
+	

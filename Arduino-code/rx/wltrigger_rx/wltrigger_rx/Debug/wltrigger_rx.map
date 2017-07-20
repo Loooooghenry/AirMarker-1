@@ -1,0 +1,586 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                              Sketch.o (delay)
+C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                              Sketch.o (pinMode)
+C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .text._Z8test_itrv
+                0x00000000       0x20 Sketch.o
+ .text._Z12fake_usdelayi
+                0x00000000        0xe Sketch.o
+ .text._Z12fake_msdelayi
+                0x00000000       0x1e Sketch.o
+ .text._Z17send_pulse_signalj
+                0x00000000       0x24 Sketch.o
+ .text._Z9loop_testv
+                0x00000000       0x1e Sketch.o
+ .bss.prev_sensor_output
+                0x00000000        0x2 Sketch.o
+ .text          0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .text          0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD Sketch.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x6e0
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000a4        0xa C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000ae        0xa C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000b8        0xa C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b8                port_to_mode_PGM
+                0x000000c2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+                0x000000c2                __ctors_end = .
+                0x000000c2                __dtors_start = .
+ *(.dtors)
+                0x000000c2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c2        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000c2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c2        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000ce       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000ce                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000de        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000e6        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000e6                __vector_22
+                0x000000e6                __vector_1
+                0x000000e6                __vector_24
+                0x000000e6                __vector_12
+                0x000000e6                __bad_interrupt
+                0x000000e6                __vector_6
+                0x000000e6                __vector_3
+                0x000000e6                __vector_23
+                0x000000e6                __vector_25
+                0x000000e6                __vector_11
+                0x000000e6                __vector_13
+                0x000000e6                __vector_17
+                0x000000e6                __vector_19
+                0x000000e6                __vector_5
+                0x000000e6                __vector_4
+                0x000000e6                __vector_9
+                0x000000e6                __vector_21
+                0x000000e6                __vector_15
+                0x000000e6                __vector_8
+                0x000000e6                __vector_14
+                0x000000e6                __vector_10
+                0x000000e6                __vector_18
+                0x000000e6                __vector_20
+                0x000000ea                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_7
+                0x000000ea       0x74 Sketch.o
+                0x000000ea                __vector_7
+ .text.__vector_2
+                0x0000015e       0x62 Sketch.o
+                0x0000015e                __vector_2
+ .text._Z12setup_timer2v
+                0x000001c0       0x1e Sketch.o
+                0x000001c0                _Z12setup_timer2v
+ .text.setup    0x000001de       0xa2 Sketch.o
+                0x000001de                setup
+ .text._Z15send_osc_signalj
+                0x00000280       0x3e Sketch.o
+                0x00000280                _Z15send_osc_signalj
+ .text._Z6IRreadv
+                0x000002be       0x50 Sketch.o
+                0x000002be                _Z6IRreadv
+ .text._Z11loop_actualv
+                0x0000030e       0x72 Sketch.o
+                0x0000030e                _Z11loop_actualv
+ .text.loop     0x00000380        0x4 Sketch.o
+                0x00000380                loop
+ .text.initVariant
+                0x00000384        0x2 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                0x00000384                initVariant
+ .text.startup.main
+                0x00000386       0x1e C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                0x00000386                main
+ .text.__vector_16
+                0x000003a4       0x94 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x000003a4                __vector_16
+ .text.micros   0x00000438       0x4a C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00000438                micros
+ .text.delay    0x00000482       0x50 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00000482                delay
+ .text.delayMicroseconds
+                0x000004d2       0x16 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x000004d2                delayMicroseconds
+ .text.init     0x000004e8       0x76 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x000004e8                init
+ .text.turnOffPWM
+                0x0000055e       0x52 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000005b0       0x78 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000005b0                pinMode
+ .text.digitalWrite
+                0x00000628       0x60 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000628                digitalWrite
+ .text.digitalRead
+                0x00000688       0x52 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000688                digitalRead
+ .text.__empty  0x000006da        0x2 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                0x000006da                yield
+                0x000006dc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000006dc        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x000006dc                _exit
+                0x000006dc                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000006dc        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000006e0                _etext = .
+
+.data           0x00800100        0x0 load address 0x000006e0
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800100                . = ALIGN (0x2)
+                0x00800100                _edata = .
+                0x00800100                PROVIDE (__data_end, .)
+
+.bss            0x00800100        0xd
+                0x00800100                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.signal_received
+                0x00800100        0x1 Sketch.o
+                0x00800100                signal_received
+ .bss.out_on    0x00800101        0x1 Sketch.o
+                0x00800101                out_on
+ .bss.out_pulse
+                0x00800102        0x2 Sketch.o
+                0x00800102                out_pulse
+ .bss.timer0_fract
+                0x00800104        0x1 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x00800105        0x4 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00800105                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800109        0x4 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00800109                timer0_overflow_count
+ *(COMMON)
+                0x0080010d                PROVIDE (__bss_end, .)
+                0x000006e0                __data_load_start = LOADADDR (.data)
+                0x000006e0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080010d        0x0
+                0x0080010d                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080010d                PROVIDE (__noinit_end, .)
+                0x0080010d                _end = .
+                0x0080010d                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Sketch.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.98/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x158
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x80 Sketch.o
+ .debug_aranges
+                0x00000080       0x38 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x000000b8       0x48 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000100       0x38 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x00000138       0x20 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x118f
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x695 Sketch.o
+ .debug_info    0x00000695      0x206 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x0000089b      0x2bd C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x00000b58      0x5f9 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00001151       0x3e C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_abbrev   0x00000000      0x5ed
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x239 Sketch.o
+ .debug_abbrev  0x00000239       0xea C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00000323      0x145 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00000468      0x15b C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x000005c3       0x2a C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_line     0x00000000      0x6bd
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x262 Sketch.o
+ .debug_line    0x00000262      0x13d C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x0000039f      0x190 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x0000052f      0x14e C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x0000067d       0x40 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_frame    0x00000000      0x374
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x1c4 Sketch.o
+ .debug_frame   0x000001c4       0x54 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000218       0xbc C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x000002d4       0x7c C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00000350       0x24 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_str      0x00000000      0x6e8
+ *(.debug_str)
+ .debug_str     0x00000000      0x3bb Sketch.o
+                                0x3fa (size before relaxing)
+ .debug_str     0x000003bb       0xfe C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                                0x2a0 (size before relaxing)
+ .debug_str     0x000004b9      0x13d C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                                0x272 (size before relaxing)
+ .debug_str     0x000005f6       0xd6 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2e0 (size before relaxing)
+ .debug_str     0x000006cc       0x1c C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                                0x170 (size before relaxing)
+
+.debug_loc      0x00000000      0xc8c
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x460 Sketch.o
+ .debug_loc     0x00000460      0x249 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x000006a9      0x5e3 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x108
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x70 Sketch.o
+ .debug_ranges  0x00000070       0x28 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000098       0x38 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x000000d0       0x28 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x000000f8       0x10 C:\Users\jthie\Dropbox\Projects\ELECTR~2\WIRELE~1\1G_2G\ARDUIN~1\RX\V3_LOW~1\WLTRIG~1\WLTRIG~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(wltrigger_rx.elf elf32-avr)
+LOAD linker stubs

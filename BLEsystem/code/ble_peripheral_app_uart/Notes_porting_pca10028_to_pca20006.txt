@@ -1,0 +1,21 @@
+Pre-requisite steps
+-------------------
+
+* Connect the beacon to the DK board via the Tag_Connect cable
+* Launch nRFgo Studio
+* Erase the beacon
+* Program the SoftDevice: s110_nrf51_8.0.0_softdevice.hex (from SDK 10.0)
+* Verity the SoftDevice
+
+
+
+Programming the beacon
+----------------------
+
+* Copy the folder pca10028 to pca20006
+* Change the project filenames to pca20006
+* Open the project in Keil
+* Open Flash > Configure flash tools > tab C\C++
+* Change BOARD_PCA100028 to BOARD_PCA20006
+* Rebuild the code
+* Flash to the beacon board
